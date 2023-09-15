@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:4803
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4803.ts
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4804.ts
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4805.ts
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4806.ts
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4807.ts
+#EXTINF:10.010000,
+https://live.telelatinohd.com:8080/NzQuMjA4LjU5LjIxOA==/60_4808.ts
